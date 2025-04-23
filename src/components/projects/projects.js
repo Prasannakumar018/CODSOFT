@@ -11,7 +11,7 @@ export default function Projects() {
     <div>
        <center><h1>My Personal Projects</h1></center>
        <div className='projectList'>
-        <ProjectItem name="Hand Sign Recognnition" image={hand}/>
+        <ProjectItem name="Hand Recognnition" image={hand}/>
         <ProjectItem name="Cake-Shop Website" image={cake}/>
         <ProjectItem name="Healthcare-ChatBot " image={health}/>
         <ProjectItem name="Portfolio Website" image={portfolio}/>
